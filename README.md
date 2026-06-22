@@ -1,5 +1,5 @@
-# Project-CV_05-04-26
-This a collection of the projects outlined in my CV. Please explore. If you have any questions, feel free to contact me on LinkedIn(www.linkedin.com/in/angus-kennedy-ab9660299)
+# Projects: Derivatives Pricing - Machine Learning - Algorithmic Trading
+
 
 
 Binomial Tree (Excel): 
@@ -9,7 +9,7 @@ K-means (Python):
 This project uses PWT.11 data. I was inspired to use a k-means clustering for my econometrics project after reading 'Advanced Statistics for Researchers'. This algorithm is part of 4500-word econometric analysis on the determinants of economic growth. We used a linear regression model based on an augmented Solow growth model (includes human capital). The purpose of this algorithm was to identify outliers for robustness checks with regards to the regression models. Which it did successfully, clustering India, China and the United States together. However the results overall were underwhelming, I believe this was due schewed data which will be taken into account for the final specification. 
 
 Trading Algorithm (Python): 
-This algorithm was one of about a dozen gradually evolving to machine learning utilizing logistic regressions. The reason these more complex algorithms are not included in this repository is due to my increasing reliance on AI generated code and thus they became increasingly removed from my actual capabilities (also some of the bugs are horrendous especially with MCMC) 
+This algorithm was one of about a dozen gradually evolving to ustilize an autoregressive integrated moving average model. The reason these more complex algorithms are not included in this repository is due to my increasing reliance on AI generated code and thus they became increasingly removed from my actual capabilities (also some of the bugs are horrendous especially with MCMC) 
 
 To use this, you need to:  
 
@@ -23,3 +23,7 @@ Overall: The biggest short coming of the algorithm is that it uses yahoo finance
 that all the gains that I did manage to get were from pure luck.
 
 Finally: This algorithm was built out of academic curiosity NOT because I thought I could compete with firms like Hudson-river trading. 
+
+Note on Methadology: 
+
+All projects ustilized AI, mainly claude's sonnet 4.6. However, each project is accositated with around 50 - 200 prompts.
