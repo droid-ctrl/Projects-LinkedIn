@@ -26,4 +26,4 @@ Finally: This algorithm was built out of academic curiosity NOT because I though
 
 Note on Methadology: 
 
-All projects ustilized AI, mainly claude's sonnet 4.6. However, each project is accositated with around 50 - 200 prompts.
+All projects ustilized AI, mainly claude's sonnet 4.6. However, each project is associtated with around 50 - 200 prompts.
